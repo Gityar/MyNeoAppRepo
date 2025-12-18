@@ -1,0 +1,8 @@
+{
+  "name": "NeoCare Summary",
+  "description": "A comprehensive learning platform for neonatal nursing, featuring structured outlines, detailed summaries, and interactive knowledge assessments. by Yaregal S.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
